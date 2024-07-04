@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EPIC Challenge</string>
+
+    <!-- Daily Images -->
+
+    <string name="daily_images_screen_name">Daily Images</string>
+
+    <!-- Daily Images | Item -->
+
+    <string name="item_daily_images_status_format">%d/%d</string>
+    <string name="item_daily_images_status_pending">Start downloading</string>
+
+    <!-- Day Detail -->
+
+    <string name="day_detail_button_status_downloading">Downloading images</string>
+    <string name="day_detail_button_status_complete">Play images</string>
+
+    <!-- Image Detail | Bottom Sheet -->
+
+    <string name="image_detail_info_title">Image details</string>
+    <string name="image_detail_info_number">Image Number</string>
+    <string name="image_detail_info_capture">Capture</string>
+    <string name="image_detail_info_latitude">Latitude</string>
+    <string name="image_detail_info_longitude">Longitude</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Support -->
+
+    <color name="support_success">#008F56</color>
+    <color name="support_warning">#FFBD3D</color>
+    <color name="support_error">#FF453A</color>
+
+    <!-- Daily Images | Item -->
+
+    <color name="item_daily_image_card_border">#2C2D2E</color>
+</resources>
