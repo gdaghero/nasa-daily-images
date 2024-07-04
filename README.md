@@ -1,7 +1,7 @@
-EPIC Challenge app
+Nasa Daily Images
 ==================
 
-This is the repository for the EPIC Challenge app. It is entirely built with Kotlin and Jetpack Compose and it follows Android development best practices.
+This is the repository for nasa daily images. It is entirely built with Kotlin and Jetpack Compose and it follows Android development best practices.
 
 ## Overview
 
