@@ -5,7 +5,7 @@ This is the repository for nasa daily images. It is entirely built with Kotlin a
 
 ## Overview
 
-The app contains the mandatory features specified in the challenge sheet:
+The app contains the following features:
 - Daily images list screen
 - Day photo list
 - Photo screen
